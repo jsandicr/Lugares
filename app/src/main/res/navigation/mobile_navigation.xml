@@ -28,7 +28,7 @@
         tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/addLugarFragment"
-        android:name="com.jsandi.lugares.AddLugarFragment"
+        android:name="com.jsandi.lugares.ui.lugar.AddLugarFragment"
         android:label="fragment_add_lugar"
         tools:layout="@layout/fragment_add_lugar" >
         <action
